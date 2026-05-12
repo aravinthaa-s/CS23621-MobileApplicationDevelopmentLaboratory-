@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Campus Food App</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_btn">Login</string>
+    <string name="register_prompt">Don\'t have an account? Register</string>
+    <string name="create_account">Create Account</string>
+    <string name="student">Student</string>
+    <string name="shopkeeper">Shopkeeper</string>
+    <string name="register_btn">Register</string>
+    <string name="shop_name_placeholder">Shop Name</string>
+    <string name="go_to_shop">Go to shop</string>
+    <string name="item_name_placeholder">Item Name</string>
+    <string name="price_placeholder">₹ 0.00</string>
+    <string name="add_to_cart">Add</string>
+    <string name="my_cart">My Cart</string>
+    <string name="place_order">Place Order</string>
+    <string name="qty_placeholder">x 1</string>
+    <string name="select_shop">Select a Shop</string>
+    <string name="menu">Menu</string>
+    <string name="go_to_cart">Go to Cart</string>
+</resources>
